@@ -1,0 +1,7 @@
+#include<iostream.h> 
+#include<fstream.h>
+#include<stdio.h>
+#include<string.h>      
+#include<dos.h>   /*For Delay*/ 
+#include<conio.h> /*For gotoxy and getch()*/
+#include<process.h> /*For exit()*/
